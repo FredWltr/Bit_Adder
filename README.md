@@ -1,5 +1,5 @@
 # Bit_Adder
-Simulate operation in binary
+Simulate operation in binary (coded in java)
 Operation possible + / - / *
     ex: 12 + 4
 The program will reconize the operation to do, then it will convert the decimal in binary, realize the operation in 
