@@ -1,5 +1,6 @@
 # Bit_Adder
 Simulate operation in binary (coded in java)
+
 Operation possible + / - / *
 
 ex: 12 + 4
